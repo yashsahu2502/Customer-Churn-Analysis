@@ -7,7 +7,7 @@ This repository contains my collection of real-world Data Analytics and Machine 
 ### 1. Customer Churn Analysis & Prediction
 - **Goal**: Identify customers likely to leave a service and suggest retention strategies.
 - **Skills**: Data preprocessing, EDA, feature engineering, classification models.
-- **Tools**: Python, Pandas, Scikit-learn, Matplotlib, Seaborn.
+- **Tools**: Python, Pandas, Matplotlib, Seaborn.
 - **Highlights**:
   - Achieved **85% model accuracy** on test data.
   - Created actionable retention insights.
