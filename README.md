@@ -14,11 +14,3 @@ This repository contains my collection of real-world Data Analytics and Machine 
 - **Folder**: `Telco_churn_analysis`
 - ---
 
-### 2. Sales Data Analysis
-- **Goal**: Analyze sales trends to optimize business strategies.
-- **Skills**: Time series analysis, sales forecasting, data visualization.
-- **Tools**: Python, Matplotlib, Pandas.
-- **Highlights**:
-  - Found seasonal sales peaks and regional patterns.
-  - Suggested stock and pricing adjustments.
-  - - **Folder**: `global_superset_sales_dashboard`
